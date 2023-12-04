@@ -6,5 +6,9 @@ In this project, we tackle the challenge of efficiently managing a multitude of 
 
 The data set we used for this project contained 5,232 chest X-Ray images from patients with pneumonia (3,883 images) and patients without pneumonia (1,349 images). This data set can be found at https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
+Our Flier Link:
+
+Our Video Link: 
+
 This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
 
