@@ -8,7 +8,7 @@ The data set we used for this project contained 5,232 chest X-Ray images from pa
 
 To replicate our work as showcased at the Trends Marketplace event or as demonstrated in our video below, please download any of the above notebooks and import them into Databricks. We hope that you find them easy to run, and with help of our video, are able to experience the trackability and reproducibility aspect that Managed MLFlow provides. We recommend running the above notebooks with a GPU instance as run times may be longer than normal as we use pretrained Convolutional Nueral Networks such as MobileNet and ResNet as an example. However, after you have a comfortable feel for how Managed MLFlow can be a valuable resource for you, we encourage you to play around with it with your own models and let us know what you think!
 
-Our Flier Link: https://drive.google.com/file/d/1kIBjA-NGpLnAwZhZ8-42B3AS66LglZor/view?usp=sharing
+Our Flier Link: https://github.com/ortlo018/Managed-MLFlow/blob/main/Team%207%20Managed%20MLflow%20Flyer.pdf
 
 Our Full Video Link: https://youtu.be/TRo-1Z8Gx0g
 
