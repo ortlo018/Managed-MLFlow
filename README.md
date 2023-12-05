@@ -6,6 +6,8 @@ In this project, we tackle the challenge of efficiently managing a multitude of 
 
 The data set we used for this project contained 5,232 chest X-Ray images from patients with pneumonia (3,883 images) and patients without pneumonia (1,349 images). This data set can be found at https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
+To replicate our work as showcased at the Trends Marketplace event or as demonstrated in our video below, please download any of the above notebooks and import them into Databricks. We hope that you find them easy to run, and with help of our video, are able to experience the trackability and reproducibility aspect that Managed MLFlow provides. We recommend running the above notebooks with a GPU instance as run times may be longer than normal as we use pretrained Convolutional Nueral Networks such as MobileNet and ResNet as an example. However, after you have a comfortable feel for how Managed MLFlow can be a valuable resource for you, we encourage you to play around with it with your own models and let us know what you think!
+
 Our Flier Link:
 
 Our Video Link: https://youtu.be/TRo-1Z8Gx0g
