@@ -10,7 +10,9 @@ To replicate our work as showcased at the Trends Marketplace event or as demonst
 
 Our Flier Link:
 
-Our Video Link: https://youtu.be/TRo-1Z8Gx0g
+Our Full Video Link: https://youtu.be/TRo-1Z8Gx0g
+
+Longer Demonstration Video that touches on Deployment: https://youtu.be/1FqYfqxwaig
 
 This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota.
 
